@@ -35,7 +35,7 @@
   "homepage": "https://github.com/cemalgnlts/Mailjs#readme",
   "dependencies": {
     "eventsource": "^2.0.2",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.7.0"
   },
   "devDependencies": {
     "@rollup/plugin-typescript": "^8.3.2",
